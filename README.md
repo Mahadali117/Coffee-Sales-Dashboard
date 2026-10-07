@@ -6,9 +6,6 @@ This project is an interactive Microsoft Excel dashboard that analyzes coffee sa
 
 The project demonstrates my ability to clean and organize data, use Excel formulas, create PivotTables, build interactive charts, and communicate business insights through dashboard design.
 
-## Dashboard Preview
-
-![Coffee Sales Dashboard](images/dashboard-preview.png)
 
 ## Key Insights
 
